@@ -7,4 +7,4 @@ A helper for creating a digital product roadmap.
 ## Printouts
 * [Pdf](https://github.com/patrickbrandt/roadmapper/blob/master/Roadmapper.pdf)
 * [PowerPoint](https://github.com/patrickbrandt/roadmapper/blob/master/Roadmapper.pptx)
-  * or you can keep it digital; data can be entered directly into the PowerPoint (*I don't recommend this)
+  * you can keep it digital with the PowerPoint: data can be entered directly into the PowerPoint (*I don't recommend this)
