@@ -1,5 +1,6 @@
 # Roadmapper
 An easy way to begin creating a digital product roadmap.
+![image](https://user-images.githubusercontent.com/11197026/48846302-c7d9f100-ed6c-11e8-8925-8ef6b9394269.png)
 ## How to use
 * On the back of a napkin at a bar or restaurant!
 * As a print-out during facilitated ideation sessions with executive leadership!
