@@ -1,4 +1,4 @@
-# Roadmapper
+# The Roadmapper
 An easy way to begin creating a digital product roadmap.
 ![image](https://user-images.githubusercontent.com/11197026/48846440-269f6a80-ed6d-11e8-8792-409c7b89a90e.png)
 ## How to use
